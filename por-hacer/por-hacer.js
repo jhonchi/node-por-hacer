@@ -1,6 +1,6 @@
 
 const fs = require('fs');
-const lista = require('../db/data.json');
+//const lista = require('../db/data.json');
 let listadoporhacer = []; //esto es un arreglo
 
 let guardarDB = ()=>{
